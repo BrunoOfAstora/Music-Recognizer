@@ -14,8 +14,11 @@ Este script utiliza o `ffprobe` para ler esses metadados ocultos (como **título
 > Você baixou `Trampled Under Foot.mp3`, mas nos metadados o artista é `"Led Zeppelin"`  
 > → `grep` não encontraria, mas este script encontra!
 
+## Como Usar:
+./rec.sh "Nome do Artista ou Banda"
 
 ---
+## Exemplo de Uso:
 
 ![Exemplo de uso](img/exemplo.jpg)
 
